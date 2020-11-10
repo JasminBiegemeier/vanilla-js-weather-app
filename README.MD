@@ -18,7 +18,7 @@ Your objective is to add functionality to the app.
 3. The desired temperature is shown to the screen.
 ```
 
-Check the live demo here: [live demo](https://vanilla-js-weather-app-codewithdragos.netlify.app/).
+Check the live demo here: [live demo](https://weatherjasmin.netlify.app/).
 
 ![oracle app demo](./weather-in-madrid.png)
 ![oracle app with phrase demo](./weather-in-dublin.png)
